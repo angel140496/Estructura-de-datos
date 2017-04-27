@@ -1,0 +1,30 @@
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\Matriz\Matriz\obj\Debug\Matriz.pdb
+E:\Matriz\Matriz\bin\Debug\Matriz.exe.config
+E:\Matriz\Matriz\obj\Debug\Matriz.exe
+E:\Matriz\Matriz\obj\Debug\Matriz.pdb
+E:\Matriz\Matriz\bin\Debug\Matriz.exe
+E:\Matriz\Matriz\bin\Debug\Matriz.pdb
+E:\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+E:\Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+E:\Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+E:\Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+D:\Matriz\Matriz\bin\Debug\Matriz.exe.config
+D:\Matriz\Matriz\obj\Debug\Matriz.exe
+D:\Matriz\Matriz\obj\Debug\Matriz.pdb
+F:\Matriz\Matriz\bin\Debug\Matriz.exe.config
+F:\Matriz\Matriz\obj\Debug\Matriz.exe
+F:\Matriz\Matriz\obj\Debug\Matriz.pdb
+F:\Matriz\Matriz\bin\Debug\Matriz.exe
+F:\Matriz\Matriz\bin\Debug\Matriz.pdb
+F:\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+F:\Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+F:\Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+F:\Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
