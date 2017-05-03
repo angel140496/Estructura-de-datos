@@ -1,0 +1,9 @@
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\bin\Debug\INVENTARIO.exe.config
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\bin\Debug\INVENTARIO.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\bin\Debug\INVENTARIO.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.Form1.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.Properties.Resources.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\INVENTARIO\INVENTARIO\obj\Debug\INVENTARIO.pdb
