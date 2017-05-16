@@ -1,0 +1,27 @@
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\bin\Debug\inventario listas.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\bin\Debug\inventario listas.exe
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\bin\Debug\inventario listas.pdb
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario listas.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario_listas.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario_listas.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario listas.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario listas.exe
+c:\users\angel\documents\visual studio 2015\Projects\inventario listas\inventario listas\obj\Debug\inventario listas.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\bin\Debug\inventario listas.exe.config
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario listas.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario listas.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\bin\Debug\inventario listas.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\bin\Debug\inventario listas.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario listas.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario_listas.Form1.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario_listas.Properties.Resources.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\inventario listas\inventario listas\obj\Debug\inventario listas.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\bin\Debug\inventario listas.exe.config
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario listas.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario listas.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\bin\Debug\inventario listas.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\bin\Debug\inventario listas.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario listas.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario_listas.Form1.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario_listas.Properties.Resources.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\Listas ordenadas\inventario listas\obj\Debug\inventario listas.csproj.GenerateResource.Cache
