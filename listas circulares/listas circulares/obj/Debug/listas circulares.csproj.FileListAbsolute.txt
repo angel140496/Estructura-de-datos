@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\bin\Debug\listas circulares.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas circulares.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas_circulares.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas_circulares.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas circulares.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\bin\Debug\listas circulares.exe
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\bin\Debug\listas circulares.pdb
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas circulares.exe
+c:\users\angel\documents\visual studio 2015\Projects\listas circulares\listas circulares\obj\Debug\listas circulares.pdb
