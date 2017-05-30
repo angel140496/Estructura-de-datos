@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\bin\Debug\Lista doblemente enlazada.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\bin\Debug\Lista doblemente enlazada.exe
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\bin\Debug\Lista doblemente enlazada.pdb
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista doblemente enlazada.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista_doblemente_enlazada.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista_doblemente_enlazada.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista doblemente enlazada.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista doblemente enlazada.exe
+c:\users\angel\documents\visual studio 2015\Projects\Lista doblemente enlazada\Lista doblemente enlazada\obj\Debug\Lista doblemente enlazada.pdb
