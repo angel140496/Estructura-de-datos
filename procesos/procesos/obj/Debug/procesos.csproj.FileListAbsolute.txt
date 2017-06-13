@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\bin\Debug\procesos.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\bin\Debug\procesos.exe
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\bin\Debug\procesos.pdb
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.exe
+c:\users\angel\documents\visual studio 2015\Projects\procesos\procesos\obj\Debug\procesos.pdb
