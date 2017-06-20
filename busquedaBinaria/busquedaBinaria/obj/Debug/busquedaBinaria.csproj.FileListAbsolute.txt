@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.exe.config
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.exe
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\bin\Debug\busquedaBinaria.pdb
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.exe
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.pdb
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\busquedaBinaria\busquedaBinaria\obj\Debug\busquedaBinaria.Form1.resources
